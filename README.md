@@ -7,3 +7,8 @@ First posted on [14 Mar 23:08 2008](http://permalink.gmane.org/gmane.comp.db.sql
 
 [1]: https://secure.travis-ci.org/gwenn/sqlite-dialect.png
 [2]: http://www.travis-ci.org/gwenn/sqlite-dialect
+
+原项目地址:https://github.com/gwenn/sqlite-dialect
+
+## [RELEASE](https://github.com/cumtfc/sqlite-dialect/releases)
+
